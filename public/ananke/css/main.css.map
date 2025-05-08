@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/live/Documents/GITHUB_PROJECTS/bootstrap-hugo-github-pages/muie/my-new-hugo-site",
+	"sourceRoot": "/Users/live/Documents/GITHUB_PROJECTS/bootstrap-hugo-github-pages",
 	"sources": [
 		"ananke/css/main.css"
 	],

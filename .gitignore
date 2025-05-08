@@ -1,6 +1,0 @@
-# Hugo / Go
-/public/
-/resources/
-/hugo_stats.json
-# Node (if you later add JS tooling)
-/node_modules/
